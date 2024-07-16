@@ -1,6 +1,6 @@
 # Chat Application using Node.js, Socket.IO, and Express
 
-![App Screenshot](screenshot.png)
+![App Screenshot](https://media.discordapp.net/attachments/714766348588417055/1262817054562451486/image.png?ex=6697f987&is=6696a807&hm=38466393d94ef9e1e53cd3f1f66bc08c4d00d9b8b1b99807390f7944e06dbd59&=&format=webp&quality=lossless&width=577&height=597)
 
 ## Description
 
