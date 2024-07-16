@@ -35,10 +35,6 @@ This is a simple chat application built using Node.js, Socket.IO, and Express. I
 3. Enter your name and join a chat room
 4. Start chatting!
 
-## Demo
-
-You can try out a live demo [here](http://your-live-demo-url.com).
-
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
