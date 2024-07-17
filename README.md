@@ -11,6 +11,7 @@ This is a simple chat application built using Node.js, Socket.IO, and Express. I
 - Real-time messaging
 - Simple and intuitive interface
 - Multiple users can join a chat room
+- Upload Media in the chatroom
 
 ## Technologies Used
 
