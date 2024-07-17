@@ -18,6 +18,9 @@ io.on("connection", function(socket) {
     socket.on("chat",function(message) {
         socket.broadcast.emit("chat",message);
     });
+    socket.on("file", (message) => {
+        socket.broadcast.emit("file", message);
+    });
 });
 
 server.listen(5000);

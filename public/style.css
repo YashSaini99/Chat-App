@@ -167,3 +167,18 @@ body {
     outline: none;
     border: none;
 }
+
+.chat-screen .typebox input[type=file] {
+    display: none;
+}
+
+.chat-screen .typebox label {
+    width: 80px;
+    height: 100%;
+    background: #111;
+    color: #eee;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
